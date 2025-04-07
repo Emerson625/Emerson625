@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Emerson, but you can call me Emissu
-- 👀 I’m interested in TI
-- 🌱 I’m currently learning Web Development in PROA
+- 👋 Hi, I’m Emerson and I like English and IT
+- 👀 I’m studying Developing of Systems in FATEC São Paulo
 
 
 <div align="center">
